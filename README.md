@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @neerajy007
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on Projects Related to AI and ML
-- 📫 How to reach me through mail
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Neeraj Yadav 👋
 
-<!---
-neerajy007/neerajy007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 QA Automation Engineer | 4+ years experience  
+🎓 MS in Computer Information Science @ Colorado State University  
+🌱 Transitioning into AI & ML Engineering  
+💼 Currently @ CGI Inc. | Fort Collins, CO  
+
+## 🛠️ Tech Stack
+- **Testing:** Selenium, Playwright, Cypress, TestNG, REST Assured, TOSCA
+- **Languages:** Java, Python
+- **Tools:** GitHub Copilot, Jenkins, Azure AI
+- **Domains:** Healthcare, Banking, Insurance, Government
+
+## 🏆 Certifications
+- TOSCA AS1, AS2, Test Architect
+- Power BI | Cybersecurity Fundamentals
+
+## 📫 Connect with me
+https://www.linkedin.com/in/neeraj-yadav24 | neera8504@email.com
+
+⚡ Fun fact: I've automated 900+ test scenarios and reduced testing effort by 40%!
